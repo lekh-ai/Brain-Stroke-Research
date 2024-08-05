@@ -3,6 +3,7 @@
 
 ## Overview
 This project aims to predict the likelihood of a brain stroke using various data mining techniques. The prediction model leverages different machine learning algorithms to analyze patient data and identify key factors contributing to stroke occurrences.
+### [Colab file link](https://colab.research.google.com/drive/1uQTW9nUL6_RxvSAUGFs_mJcOimJsGqr-?usp=sharing)
 
 ## 👨‍🔬 Authors
 - **Lekh Sisodiya** (22MCA0416)
